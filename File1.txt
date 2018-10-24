@@ -5,4 +5,9 @@
 4th line added and commited to master directly even though there is branch file
 =======
 3rd line added and commited to the branch
+<<<<<<< HEAD
+>>>>>>> branch1
+=======
+>>>>>>> branch1
+1
 >>>>>>> branch1
