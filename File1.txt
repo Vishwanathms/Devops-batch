@@ -6,3 +6,4 @@
 =======
 3rd line added and commited to the branch
 >>>>>>> branch1
+1
