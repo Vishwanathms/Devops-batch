@@ -1,13 +1,1 @@
-1st line added in the master branch
-2nd line added and commited to the branch
-<<<<<<< HEAD
-
-4th line added and commited to master directly even though there is branch file
-=======
-3rd line added and commited to the branch
-<<<<<<< HEAD
->>>>>>> branch1
-=======
->>>>>>> branch1
-1
->>>>>>> branch1
+1st line added on the local master repo
